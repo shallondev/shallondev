@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shallon</h1>
 <h3 align="center">A passionate full-stack developer located in London, Ontario.</h3>
 
-- 🔭 I’m currently working on **Completing CS50W**
-
 - 🌱 I’m currently learning **Full-stack web development.**
 
-- 💬 Ask me about **HTML, CSS, Python, Django :)**
+- 💬 Ask me about **HTML, CSS, Python, Django, JavaScript, React :)**
 
 - 📫 How to reach me **shallon.frances.pawlickpotts@gmail.com**
 
